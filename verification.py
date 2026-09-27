@@ -12,10 +12,13 @@ def main():
             response = input("Kindly selection from the following option above: ")
             if response == "1":
                 print("still working on it..")
+                return
             elif response == "2":
                 print("still working on it..")
+                return
             elif response == "3":
                 print("still working on it..")
+                return
             elif response == "4":
                 print(" Thank you for using INCE System.")
                 break

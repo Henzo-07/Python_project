@@ -11,11 +11,11 @@ def main():
             print("1. >> Registration\n2. >> Confirm details\n3. >> Cast Voter\n4. >> Logout")
             response = input("Kindly selection from the following option above: ")
             if response == "1":
-                print("still woring on it..")
+                print("still working on it..")
             elif response == "2":
-                print("still woring on it..")
+                print("still working on it..")
             elif response == "3":
-                print("still woring on it..")
+                print("still working on it..")
             elif response == "4":
                 print(" Thank you for using INCE System.")
                 break
